@@ -1,0 +1,36 @@
+2/11/2019
+	-Designed the ER diagram (45 mins). Will send to Grayson for review.
+
+3/11/19
+	-compared er diagrams (30 mins) and made a final one
+	
+3/30/19
+	-wrote out relations and reviewed statments written by Grayson (2 hours) 
+	
+4/14/19
+	-wrote queries and troubleshooted import data (4 hours)
+	
+4/18/19
+	-tried finishing queries(3 hours)
+	
+4/27/19
+	- finished queries (4 hours)
+	
+4/28/19
+	-started work on optimizing the queries (2 hours)
+	
+5/2/19
+	-worked on login page jsp (3 hours)
+	
+5/3/19 
+	- finished login jsp, insertion/deletion functionality,and  queries w/t optimization (7 hours)
+	
+
+	
+	
+	
+	
+	
+	
+	
+	

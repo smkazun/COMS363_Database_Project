@@ -1,0 +1,25 @@
+Week of Feb 18
+- Made my own ER diagram
+- Met with Sebastian and both made one final design
+
+...
+
+Week of March 11
+- Submitted our diagram
+
+...
+
+Week of April 8
+- Wrote the schema in SQL and imported all the Twitter data for 2016
+
+Week of April 15
+- Fixed problem with url table containing a '\'
+	- Added specified escape character so that the data wouldn't be messed up
+
+Week of April 22
+- Started and finished all the JSP files for the project
+
+Week of April 29
+- Optimized all of Sebastian's queries
+- Updated the JSP files with new queries
+- Made final touches to project with Sebastian before submitting

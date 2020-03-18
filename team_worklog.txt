@@ -1,0 +1,37 @@
+Week of Feb 11
+- Group recieved project description
+- Set up regular meeting time for every Saturday morning
+
+Week of Feb 18
+- Each of us made an ER diagram
+- Met on Saturday to compare designs and make one single design together
+
+...
+
+Week of March 11
+- Submitted first part of project
+
+...
+
+Week of April 8
+- Began working on part 2 of the project
+	- Sebastian began working on queries
+	- Grayson implemented the database schema and imported data
+
+Week of April 15
+- Completed all four required queries
+- Fixed problem with url table containing an escape character
+- Submitted part 2
+
+Week of April 22
+- Began part 3
+	- Sebastian continued to write more querries
+	- Grayson finished all JSP code for the web page
+
+Week of April 29
+- Finished part 3
+	- Grayson optimized all the queries that Sebastian wrote
+	- Sebastian implemented user sign in feature for our JSP app
+	- Sebastian implemented User insertion and deletion for administrators
+- Submitted part 3
+- Became very happy because we finished all our homework for the semester
