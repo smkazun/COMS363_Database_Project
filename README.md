@@ -1,3 +1,3 @@
 # COMS363_Database_Project
 
-Database Project partner project from Spring2019
+Database partner project from Spring2019
